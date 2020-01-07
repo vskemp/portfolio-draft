@@ -44,18 +44,22 @@ h2 {
 .icon-buttons {
     flex-direction: row;
     margin-left: 20px;
+    text-decoration: none;
 }
 
 .aboutme {
     font-size: 35px;
     text-decoration: none;
     color:white;
+    margin-left: 400px;
 }
 
 .projects {
+    text-align: center;
     font-size: 35px;
     text-decoration: none;
     color:white;
+    margin-left: 50px;
 }
 
 footer {
